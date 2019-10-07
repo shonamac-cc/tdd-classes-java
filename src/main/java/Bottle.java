@@ -7,14 +7,18 @@ public class Bottle {
     }
 
     public int drinkWater(){
-        return volume - 10;
+        return this.volume -= 10;
     }
 
     public int emptyBottle(){
-        return volume - volume;
+        return this.volume -= volume;
     }
 
     public int fillBottle(){
-        return volume;
+        return this.volume;
+    }
+
+    public int getVolume(){
+        return this.volume;
     }
 }
