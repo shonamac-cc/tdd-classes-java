@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7db1f08c-a625-456c-ba89-d72bd8de62da" name="Default Changelist" comment="" />
+    <list default="true" id="7db1f08c-a625-456c-ba89-d72bd8de62da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,30 +74,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="540">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#197#198#0" expanded="true" />
                 <element signature="e#235#236#0" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="e#207#208#0" expanded="true" />
                 <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -228,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PrinterTest.sheetsTotalIfEnoughPaperToPrint">
+  <component name="RunManager" selected="JUnit.PrinterTest">
     <configuration name="BottleTest.emptyBottle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SingleClassesHomework" />
       <option name="PACKAGE_NAME" value="" />
@@ -279,8 +286,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrinterTest.sheetsTotalIfEnoughPaperToPrint" />
         <item itemvalue="JUnit.PrinterTest" />
+        <item itemvalue="JUnit.PrinterTest.sheetsTotalIfEnoughPaperToPrint" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.BottleTest.fillBottle" />
         <item itemvalue="JUnit.BottleTest.emptyBottle" />
@@ -301,24 +308,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BottleTest_drinkWater - 2019.10.07 at 16h 45m 41s.xml">
-      <configuration name="BottleTest.drinkWater" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BottleTest_emptyBottle - 2019.10.07 at 16h 46m 38s.xml">
-      <configuration name="BottleTest.emptyBottle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BottleTest_fillBottle - 2019.10.07 at 16h 47m 06s.xml">
-      <configuration name="BottleTest.fillBottle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2019.10.07 at 19h 33m 14s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrinterTest - 2019.10.07 at 19h 44m 41s.xml">
-      <configuration name="PrinterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrinterTest_sheetsTotalIfEnoughPaperToPrint - 2019.10.07 at 19h 55m 34s.xml">
-      <configuration name="PrinterTest.sheetsTotalIfEnoughPaperToPrint" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrinterTest_sheetsTotalIfEnoughPaperToPrint - 2019.10.07 at 19h 55m 58s.xml">
       <configuration name="PrinterTest.sheetsTotalIfEnoughPaperToPrint" configurationId="JUnit" />
     </history-entry>
@@ -330,6 +319,24 @@
     </history-entry>
     <history-entry file="PrinterTest_sheetsTotalIfEnoughPaperToPrint - 2019.10.07 at 20h 00m 29s.xml">
       <configuration name="PrinterTest.sheetsTotalIfEnoughPaperToPrint" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest_sheetsTotalIfEnoughPaperToPrint - 2019.10.07 at 20h 06m 14s.xml">
+      <configuration name="PrinterTest.sheetsTotalIfEnoughPaperToPrint" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest_sheetsTotalIfEnoughPaperToPrint - 2019.10.07 at 20h 15m 41s.xml">
+      <configuration name="PrinterTest.sheetsTotalIfEnoughPaperToPrint" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest - 2019.10.07 at 20h 17m 50s.xml">
+      <configuration name="PrinterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest - 2019.10.07 at 20h 20m 17s.xml">
+      <configuration name="PrinterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest - 2019.10.07 at 20h 23m 07s.xml">
+      <configuration name="PrinterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest - 2019.10.07 at 20h 30m 57s.xml">
+      <configuration name="PrinterTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -436,27 +443,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#197#198#0" expanded="true" />
             <element signature="e#235#236#0" expanded="true" />
             <element signature="e#143#144#0" expanded="true" />
             <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
           </folding>
         </state>
       </provider>
