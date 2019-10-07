@@ -11,26 +11,26 @@ public class CalculatorTest {
 
     @Before
     public void before(){
-        calculator = new Calculator(8, 2, 30.0, 7.0);
+        calculator = new Calculator();
     }
 
     @Test
     public void addNumber(){
-        assertEquals(10, calculator.addNumber());
+        assertEquals(10, calculator.addNumber(8, 2));
     }
 
     @Test
     public void subtractNumber(){
-        assertEquals(6, calculator.subtractNumber());
+        assertEquals(6, calculator.subtractNumber(8, 2));
     }
 
     @Test
     public void multiplyNumber(){
-        assertEquals(16, calculator.multiplyNumber());
+        assertEquals(16, calculator.multiplyNumber(8, 2));
     }
 
     @Test
     public void divideNumber(){
-        assertEquals(4.28, calculator.divideNumber(), 0.01);
+        assertEquals(4.28, calculator.divideNumber(30.0, 7.0), 0.01);
     }
 }
